@@ -1,4 +1,4 @@
-# Calculadora JS
+# Calculadora Básica JS
 
 Una calculadora simple implementada en JavaScript que permite realizar operaciones básicas.
 
